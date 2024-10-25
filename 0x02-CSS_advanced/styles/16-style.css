@@ -53,7 +53,7 @@ a:active {
     margin: var(--section-title-margin);
     color: var(--section-title-color);
 }
-.class {
+.container {
     width: 960px;
     margin: auto;
 }
